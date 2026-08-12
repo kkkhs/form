@@ -1,5 +1,13 @@
 # @tanstack/form-core
 
+## 2.0.0-alpha.1
+
+### Patch Changes
+
+- [#2331](https://github.com/TanStack/form/pull/2331) [`547cbea`](https://github.com/TanStack/form/commit/547cbea2eebeb0b9ec8a6e9141d35fbf4d963429) - Docs: Add JSDoc to code and API sections to website
+
+- [#2326](https://github.com/TanStack/form/pull/2326) [`fc424c0`](https://github.com/TanStack/form/commit/fc424c072197e70549460ca221c687562d138b9b) - Refactor: Store Form Groups on trie nodes instead of the form instance
+
 ## 2.0.0-alpha.0
 
 ### Major Changes
